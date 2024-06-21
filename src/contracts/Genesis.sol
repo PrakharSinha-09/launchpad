@@ -220,6 +220,7 @@ contract Genesis {
         );
     }
 
+    //TODO: Feature working on for asking for the refund
     function requestRefund(uint id) public returns (bool) {
         require(
             projects[id].status != statusEnum.REVERTED ||

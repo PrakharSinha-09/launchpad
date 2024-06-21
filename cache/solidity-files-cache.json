@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "D:\\genesis-main(1)\\genesis-main\\src\\contracts\\Genesis.sol": {
-      "lastModificationDate": 1712339644381,
-      "contentHash": "2587f6684030149e06139f9f6477f4c2",
+      "lastModificationDate": 1717164700930,
+      "contentHash": "a553045669390fe7af5e2bbc69e5d305",
       "sourceName": "src/contracts/Genesis.sol",
       "solcConfig": {
         "version": "0.8.11",
